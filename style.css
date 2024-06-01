@@ -1,0 +1,12 @@
+.a{
+    padding: 0% auto !important;
+    box-shadow: 2px 2px 8px 8px !important;
+   
+}
+.b{
+  text-align: center !important;
+   justify-content: center !important;
+}
+.e{
+  clip-path: circle(50% at 50% 50%);
+}
